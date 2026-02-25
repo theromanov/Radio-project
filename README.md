@@ -64,26 +64,11 @@ The layout focuses on conversion-driven design with a bold hero section, informa
 
 ---
 
-## 🛠 Technologies (Example Stack)
-
-Depending on implementation:
+## 🛠 Technologies
 
 - HTML5
 - CSS3 / SCSS
-- JavaScript
-- Bootstrap / Tailwind (optional)
 - Responsive design principles
-
----
-
-## 📈 Goal of the Project
-
-The main goal of this landing page is to:
-
-- Increase webinar registrations
-- Educate potential participants
-- Demonstrate authority and expertise
-- Convert visitors into leads
 
 ---
 
